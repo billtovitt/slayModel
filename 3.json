@@ -1,0 +1,47 @@
+{
+  "name": "SLAY EMMA #3",
+  "image": "3.png",
+  "description": "{id}/3333\nSLAY is a Japanese entertainment project that uses NFT for artwork and other purposes.",
+  "external_url": "http://emma-nft.art",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "SLAY",
+    "family": ""
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": []
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "African Elephant"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bluntbob Whitebeige"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bbb"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nurse1980's Blue"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Sunglasses Black"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Closeheadphone Blue"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}
